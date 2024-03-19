@@ -99,6 +99,6 @@ FACULTY NAME:VICTOR IKECHUKWU AGUGHASI
 
 
 # Contributer:
-[vicuor ikechukwu agughasi](https://github.com/Victor-Ikechukwu)
+[victor ikechukwu agughasi](https://github.com/Victor-Ikechukwu)
 
 [Jeevitha S.R](https://github.com/jeevisr)
