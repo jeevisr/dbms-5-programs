@@ -89,6 +89,13 @@ number 5 (use NOT EXISTS operator).
 5. For each department that has more than five employees, retrieve the department number and
 the number of its employees who are making more than Rs.6,00,000.
 
+
 NAME : JEEVITHA SR
 USN :4MH21CS038
-FACULTY NAME:
+FACULTY NAME:VICTOR IKECHUKWU AGUGHASI 
+
+
+# Contributer:
+[vicuor ikechukwu agughasi](https://github.com/Victor-Ikechukwu)
+
+[Jeevitha S.R](https://github.com/jeevisr)
