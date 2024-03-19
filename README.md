@@ -90,6 +90,7 @@ number 5 (use NOT EXISTS operator).
 the number of its employees who are making more than Rs.6,00,000.
 
 
+
 NAME : JEEVITHA SR
 
 USN :4MH21CS038
